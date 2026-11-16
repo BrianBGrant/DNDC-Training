@@ -27,9 +27,9 @@ The example data we will be using is strictly for demonstration purposes and is 
 
 
 The site is in Ontario Canada and is managed by Claudia Wagner-Riddle cwagnerr@uoguelph.ca
-# Elora
+# DNDC-Training Site 1
 
-Elora Research Station, current plot 1 (`Elora.dnd`, site name `Elora_P1_history`), 2000-2023.
+Southern Ontario Research Station, current plot 1 (`Elora.dnd`, site name `Elora_P1_history`), 2000-2023.
 
 ## Source
 - Citation: management compiled from Wagner-Riddle et al. (2007), Jayasundara et al. (2006, 2007),
