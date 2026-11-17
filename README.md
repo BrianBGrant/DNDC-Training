@@ -1,21 +1,21 @@
 # DNDC-Training
 Training Repository containing the Model executable, example site files and training modules
 
-DNDC_HPC (High Performance Cluster Version of DNDCv.CAN for WINDOWS and LINUX versions)
+**DNDC_HPC** (High Performance Cluster Version of DNDCv.CAN for WINDOWS and LINUX versions)
 
 This is the High Performance Cluster Version of CANADA DNDC (DNDCv.CAN). It can be run in LINUX with DNDCgo.exe or Windows depending on the Cmake compile. There is no GUI available with the HPC version of the model and it requires the user to understand the intended structure of the DNDC model input file (.dnd). If you need to make a new .dnd file and are unsure how to edit it then use the windows GUI version of the model (see below) to create and save a dnd file and then run with the HPC version.
 
-DNDC_GUI (This is classic DNDCv.CAN with a graphic user interface)
+**DNDC_GUI** (This is classic DNDCv.CAN with a graphic user interface)
 
 This has a GUI version built off the legacy version of DNDC95 and has been updated to support DNDC.vCAN. The model can be run using windows for a single site and for multiple sites at once using either site run or batch run commands. There is also a command line version of this windows version that can be run but it has been made obsolete by the DNDC_HPC command line version of the model. The DNDCv.CAN (DNDC_Windows) will be slowly shelved in developement and only the DNDC_HPC version will be supported for new development additions.
 
 
-Please download and unzip DNDC_HPC_NOV2026.zip to your root C:\  
+Please download and unzip **DNDC_HPC_NOV2026.zip** to your root C:\  
 It should extract to C:\DNDC_WIN
 the executable for windows will be named C:\DNDC\DNDCgo.exe
 This will be a commmand prompt version of the model.
 
-Please unzip DNDC_GUI_NOV2026.zip to C:\
+Please unzip **DNDC_GUI_NOV2026.zip** to C:\
 It should extract to C:\DNDC
 The excutable for windows will be name C:\DNDC\DNDC95.exe
 This is the classic Graphic User Interface version of DNDC. It has menus that you need to navigate to open *.dnd files
@@ -27,6 +27,8 @@ DNDC_HPC will need to be run through the commmand prompt. The step1-step5 bat fi
 DNDC_GUI will need to open up the .dnd file by going through the site input menu and loading a .dnd file.
 
 DNDC_HPC model results will be analyzed using a AI tool to demonstrate how one can investigate different outcomes from the model using measured data. We will be using the included DNDC-Training Site 1 that is located in southern Ontario. This is for demonstration purposes only and the observed data is not provided for analysis. The AI tool can be opened using the following link.
+
+**LINK TO TOOL FOR MODEL RESULT ANALYSIS**
 https://claude.ai/artifact/8gM5h4V33ax2abM6gpR4Jz
 
 
