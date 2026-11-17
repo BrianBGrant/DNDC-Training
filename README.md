@@ -9,6 +9,7 @@ This is the High Performance Cluster Version of CANADA DNDC (DNDCv.CAN). It can 
 
 This has a GUI version built off the legacy version of DNDC95 and has been updated to support DNDC.vCAN. The model can be run using windows for a single site and for multiple sites at once using either site run or batch run commands. There is also a command line version of this windows version that can be run but it has been made obsolete by the DNDC_HPC command line version of the model. The DNDCv.CAN (DNDC_Windows) will be slowly shelved in developement and only the DNDC_HPC version will be supported for new development additions.
 
+## Model files for you to download and extract to your computer
 
 Please download and unzip **DNDC_HPC_NOV2026.zip** to your root C:\  
 It should extract to C:\DNDC_WIN
